@@ -9,7 +9,7 @@
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,tailwind,react, nextjs, redux, vite, typescript, nodejs, express, mongodb, webpack, firebase, figma, mysql, solidity, vercel ,git,docker,c,cpp, java, php, postman" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,tailwind,react,nextjs,redux,vite,typescript,nodejs,express,mongodb,webpack,firebase,figma,mysql,solidity,vercel,git,docker,c,cpp,java,php,postman" />
   </a>
  
 </p>
