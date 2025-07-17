@@ -16,7 +16,7 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm a Fullstack Developer, currently exploring Web3 Space
+- :computer: I'm a Front End Developer, currently exploring Web3 Space
 - :hourglass_flowing_sand: Exploring AWS
 - :computer: Software Engineering at Air University
 - :rocket: Always ready to collaborate for Dev Experiments
